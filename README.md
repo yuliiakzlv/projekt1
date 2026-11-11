@@ -1,9 +1,22 @@
-# projekt-Zaawansowana-eksploracja-danych
+# AMD-DBSCAN
 
-This repository contains a collage project, based on the research paper **"AMD-DBSCAN: An Adaptive Multi-density DBSCAN for Datasets of Extremely Variable Density"**.
+This is the official code repository of AMD-DBSCAN published in DSAA2022.
 
-The original paper is included as a git submodule. To initialize and download it run the following command:
+## Usage
 
-``` shell
-git submodule update --init --recursive
 ```
+Run dataset.py to create make blobs datasets.
+Run parameterAdataptive.py to cluster.
+```
+
+## Related work
+
+```
+AMD-DBSCAN An Adaptive Multi-density DBSCAN for datasets of extremely variable density
+```
+
+## Contributing
+
+@AlexandreWANG915
+
+## License
