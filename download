@@ -1,0 +1,3 @@
+[submodule "AMD-DBSCAN"]
+	path = AMD-DBSCAN
+	url = https://github.com/AlexandreWANG915/AMD-DBSCAN.git
